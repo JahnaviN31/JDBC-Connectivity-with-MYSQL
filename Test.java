@@ -1,3 +1,5 @@
+// It is recommended to run this code in command prompt.
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 
