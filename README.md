@@ -9,18 +9,18 @@ The term stands for "Java Application Programming Interface." It refers to a col
 Some of the important editions in Java are as follows
 
 1. Java SE (Standard Edition):
-   - Purpose: This is the basic edition of Java that most people are familiar with. It provides the core functionality and libraries for building general-purpose Java applications, whether they are desktop applications, command-line tools, or simple server applications.
+This is the basic edition of Java that most people are familiar with. It provides the core functionality and libraries for building general-purpose Java applications, whether they are desktop applications, command-line tools, or simple server applications.
    - Examples: Writing a calculator program, a file manager, or a web server in Java.
 
 2. Java EE (Enterprise Edition):
-   - Purpose: Java EE is an extension of Java SE that's tailored for developing large-scale, enterprise-level applications, particularly web and server-based applications. It includes additional libraries and features for building robust and scalable enterprise systems.
+Java EE is an extension of Java SE that's tailored for developing large-scale, enterprise-level applications, particularly web and server-based applications. It includes additional libraries and features for building robust and scalable enterprise systems.
    - Examples: Developing e-commerce websites, customer relationship management (CRM) software, and online banking applications.
 
 3. Java ME (Micro Edition):
-   - Purpose: Java ME is designed for developing applications on small, resource-constrained devices, such as mobile phones, embedded systems, and other devices with limited memory and processing power.
+Java ME is designed for developing applications on small, resource-constrained devices, such as mobile phones, embedded systems, and other devices with limited memory and processing power.
    - Examples: Creating mobile games, navigation apps for GPS devices, or applications for feature phones.
 
 4. JavaFX:
-   - Purpose: JavaFX is a framework for building rich, interactive, and visually appealing user interfaces. It's often used in conjunction with Java SE for creating modern, cross-platform desktop applications with advanced graphical user interfaces (GUIs).
+JavaFX is a framework for building rich, interactive, and visually appealing user interfaces. It's often used in conjunction with Java SE for creating modern, cross-platform desktop applications with advanced graphical user interfaces (GUIs).
    - Examples: Building multimedia-rich applications, data visualization tools, and desktop applications with animated graphics and special effects.
 
