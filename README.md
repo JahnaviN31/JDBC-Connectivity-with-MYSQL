@@ -1,6 +1,5 @@
 # JDBC-Connectivity-with-MYSQL
 
-﻿
 JDBC
 JDBC (Java Database Connectivity) is a Java API that allows Java applications to interact with and manage databases. It provides a standard interface for connecting to relational databases and executing SQL (Structured Query Language) queries. The JDBC API is a part of JavaSE (Java Standard Edition) and is commonly used for database operations in Java applications.
 
